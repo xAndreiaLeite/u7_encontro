@@ -1,1 +1,4 @@
 # u7_encontro
+
+Criando um repositório - Andréia Leite
+
